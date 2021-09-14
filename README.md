@@ -1,7 +1,18 @@
 # Twitch Concept
 
 Proyecto basado en la idea original de [Mao Lop](https://dribbble.com/m4st3rmiau). 
+
 <img src="https://cdn.dribbble.com/users/5722038/screenshots/16418073/media/fe93bfb24fc74691fc5de2b6fc78e49b.png?compress=1&resize=1200x900">
+
+
+<div style="width: 100%; display: block";>
+  <img src="https://raw.githubusercontent.com/DamianRincon/twitch_concept/main/Screenshot_2021-09-14-02-57-26-303_mx.damianrc.twitch.jpg" alt="drawing" width="300"/>
+  <img src="https://raw.githubusercontent.com/DamianRincon/twitch_concept/main/Screenshot_2021-09-14-02-57-31-242_mx.damianrc.twitch.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/DamianRincon/twitch_concept/main/Screenshot_2021-09-14-02-57-21-346_mx.damianrc.twitch.jpg" alt="drawing" width="300"/>
+  
+
+
+</div>
 
 ## Plugins usados
 - [carousel_slider](https://pub.dev/packages/carousel_slider). 
